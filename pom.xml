@@ -10,7 +10,7 @@
     <packaging>war</packaging>
 
     <name>simple_mvc Maven Webapp</name>
-    <!-- FIXME change it to the project's website -->
+    <!-- FIXME change it to the project's website  -->
     <url>http://www.example.com</url>
 
     <properties>
@@ -26,7 +26,7 @@
             <version>4.11</version>
             <scope>test</scope>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
+        <!-- Test collaborator -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
